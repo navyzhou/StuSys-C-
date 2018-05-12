@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526000463 source:c:\users\acer\desktop\c++\stuinfo\main.cpp
+	"stuInfo.h"
+
+1526000424 c:\users\acer\desktop\c++\stuinfo\stuinfo.h
+	<iostream>
+	<string>
+	"windows.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<conio.h>
+	<cstring>
+
